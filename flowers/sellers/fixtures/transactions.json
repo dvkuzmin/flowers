@@ -1,0 +1,62 @@
+[
+  {
+    "model": "sellers.transaction",
+    "pk": 1,
+    "fields": {
+      "buyer": 3,
+      "lot": 1,
+      "quantity": 3,
+      "timestamp": "2023-05-26 20:37:24"
+    }
+  },
+  {
+    "model": "sellers.transaction",
+    "pk": 2,
+    "fields": {
+      "buyer": 3,
+      "lot": 3,
+      "quantity": 5,
+      "timestamp": "2023-05-26 20:37:24"
+    }
+  },
+  {
+    "model": "sellers.transaction",
+    "pk": 3,
+    "fields": {
+      "buyer": 3,
+      "lot": 5,
+      "quantity": 7,
+      "timestamp": "2023-05-26 20:37:24"
+    }
+  },
+  {
+    "model": "sellers.transaction",
+    "pk": 4,
+    "fields": {
+      "buyer": 4,
+      "lot": 2,
+      "quantity": 6,
+      "timestamp": "2023-05-26 20:37:24"
+    }
+  },
+  {
+    "model": "sellers.transaction",
+    "pk": 5,
+    "fields": {
+      "buyer": 4,
+      "lot": 4,
+      "quantity": 3,
+      "timestamp": "2023-05-26 20:37:24"
+    }
+  },
+  {
+    "model": "sellers.transaction",
+    "pk": 6,
+    "fields": {
+      "buyer": 4,
+      "lot": 5,
+      "quantity": 9,
+      "timestamp": "2023-05-26 20:37:24"
+    }
+  }
+]

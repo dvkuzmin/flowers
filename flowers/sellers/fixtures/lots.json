@@ -1,0 +1,62 @@
+[
+  {
+    "model": "sellers.flowerlot",
+    "pk": 1,
+    "fields": {
+      "seller": 1,
+      "flower_type": "romashka",
+      "shade": "Yellow",
+      "quantity": 9,
+      "price": 100,
+      "display_to_buyers": true
+    }
+  },
+  {
+    "model": "sellers.flowerlot",
+    "pk": 2,
+    "fields": {
+      "seller": 1,
+      "flower_type": "tulipan",
+      "shade": "Yellow",
+      "quantity": 11,
+      "price": 150,
+      "display_to_buyers": true
+    }
+  },
+  {
+    "model": "sellers.flowerlot",
+    "pk": 3,
+    "fields": {
+      "seller": 2,
+      "flower_type": "roza",
+      "shade": "Red",
+      "quantity": 13,
+      "price": 200,
+      "display_to_buyers": true
+    }
+  },
+  {
+    "model": "sellers.flowerlot",
+    "pk": 4,
+    "fields": {
+      "seller": 2,
+      "flower_type": "liliya",
+      "shade": "Blue",
+      "quantity": 7,
+      "price": 130,
+      "display_to_buyers": true
+    }
+  },
+  {
+    "model": "sellers.flowerlot",
+    "pk": 5,
+    "fields": {
+      "seller": 2,
+      "flower_type": "tulipan",
+      "shade": "Red",
+      "quantity": 13,
+      "price": 180,
+      "display_to_buyers": true
+    }
+  }
+]

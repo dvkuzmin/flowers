@@ -1,0 +1,38 @@
+[
+  {
+    "model": "sellers.user",
+    "pk": 1,
+    "fields": {
+      "name": "Saul",
+      "password": "qwerty",
+      "is_seller": true
+    }
+  },
+  {
+    "model": "sellers.user",
+    "pk": 2,
+    "fields": {
+      "name": "Heisenberg",
+      "password": "qwerty",
+      "is_seller": true
+    }
+  },
+  {
+    "model": "sellers.user",
+    "pk": 3,
+    "fields": {
+      "name": "Pinkman",
+      "password": "qwerty",
+      "is_seller": false
+    }
+  },
+  {
+    "model": "sellers.user",
+    "pk": 4,
+    "fields": {
+      "name": "Brock",
+      "password": "qwerty",
+      "is_seller": false
+    }
+  }
+]
